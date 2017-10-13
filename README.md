@@ -1,0 +1,2 @@
+# ns1test
+ddns
